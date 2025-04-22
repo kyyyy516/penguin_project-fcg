@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\opengl test\Debug\opengl test.exe
+C:\Users\admin\source\repos\lab2\Debug\opengl test.exe
+C:\Users\admin\source\repos\assignment2 DDA\Debug\opengl test.exe
+C:\Users\admin\source\repos\3d object\Debug\opengl test.exe
+C:\Users\admin\source\repos\project\Debug\opengl test.exe
+C:\Users\admin\source\repos\project fcg\Debug\opengl test.exe
